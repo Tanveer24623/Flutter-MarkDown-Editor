@@ -1,4 +1,4 @@
-# flutter_markdown_editor
+# Flutter Markdown Editor
 
 A new Flutter project.
 
